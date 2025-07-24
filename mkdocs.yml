@@ -1,3 +1,8 @@
-site_name: My Docs
+site_name: 天园居士的资源小站
 theme:
   name: material
+  palette:
+    scheme: default # 配色方案
+    primary: light green  # 主色调
+    accent: indigo  # 强调色
+    
